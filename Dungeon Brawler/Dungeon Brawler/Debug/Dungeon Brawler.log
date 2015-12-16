@@ -1,0 +1,8 @@
+﻿  World.cpp
+c:\users\linh\desktop\working\dungeon brawler\dungeon brawler\arrowshooter.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\linh\desktop\working\dungeon brawler\dungeon brawler\world.h(27): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\linh\desktop\working\dungeon brawler\dungeon brawler\world.h(28): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\linh\desktop\working\dungeon brawler\dungeon brawler\world.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+c:\users\linh\desktop\working\dungeon brawler\dungeon brawler\world.cpp(461): warning C4244: 'argument' : conversion from 'sf::Int32' to 'float', possible loss of data
+c:\users\linh\desktop\working\dungeon brawler\dungeon brawler\world.cpp(483): warning C4244: 'argument' : conversion from 'sf::Int32' to 'float', possible loss of data
+  Dungeon Brawler.vcxproj -> C:\Users\Linh\Desktop\Working\Dungeon Brawler\Debug\Dungeon Brawler.exe
